@@ -1,2 +1,2 @@
-# chore_bazaar
+# Chore_Bazaar
  
